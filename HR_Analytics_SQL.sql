@@ -31,7 +31,7 @@ FROM
     hr_data
 LIMIT 10;
 
--- Analyzing the Business Insights
+-- Analyzing
 -- Count the total employee
 SELECT 
     COUNT(*) AS Total_Employee
